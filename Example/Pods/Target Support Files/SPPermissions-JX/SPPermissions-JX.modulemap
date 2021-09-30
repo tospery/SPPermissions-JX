@@ -1,0 +1,6 @@
+framework module SPPermissions_JX {
+  umbrella header "SPPermissions-JX-umbrella.h"
+
+  export *
+  module * { export * }
+}

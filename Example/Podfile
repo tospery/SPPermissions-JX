@@ -1,8 +1,23 @@
 use_frameworks!
 
-platform :ios, '9.0'
+platform :ios, '11.0'
 
 target 'SPPermissions-JX_Example' do
-  pod 'SPPermissions-JX', :path => '../'
+  pod 'SPPermissions-JX/Camera', :path => '../'
+  pod 'SPPermissions-JX/PhotoLibrary', :path => '../'
+  pod 'SPPermissions-JX/Notification', :path => '../'
+  pod 'SPPermissions-JX/Microphone', :path => '../'
+  pod 'SPPermissions-JX/Calendar', :path => '../'
+  pod 'SPPermissions-JX/Contacts', :path => '../'
+  pod 'SPPermissions-JX/Reminders', :path => '../'
+  pod 'SPPermissions-JX/SpeechRecognizer', :path => '../'
+  pod 'SPPermissions-JX/LocationWhenInUse', :path => '../'
+  pod 'SPPermissions-JX/LocationAlways', :path => '../'
+  pod 'SPPermissions-JX/Motion', :path => '../'
+  pod 'SPPermissions-JX/Music', :path => '../'
+  pod 'SPPermissions-JX/Bluetooth', :path => '../'
+  pod 'SPPermissions-JX/Tracking', :path => '../'
+  pod 'SPPermissions-JX/Siri', :path => '../'
+  pod 'SPPermissions-JX/Health', :path => '../'
 
 end

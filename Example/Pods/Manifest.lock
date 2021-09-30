@@ -1,0 +1,63 @@
+PODS:
+  - SPPermissions-JX/Bluetooth (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Calendar (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Camera (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Contacts (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Core (6.7.0-v1)
+  - SPPermissions-JX/Health (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/LocationAlways (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/LocationWhenInUse (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Microphone (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Motion (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Music (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Notification (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/PhotoLibrary (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Reminders (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Siri (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/SpeechRecognizer (6.7.0-v1):
+    - SPPermissions-JX/Core
+  - SPPermissions-JX/Tracking (6.7.0-v1):
+    - SPPermissions-JX/Core
+
+DEPENDENCIES:
+  - SPPermissions-JX/Bluetooth (from `../`)
+  - SPPermissions-JX/Calendar (from `../`)
+  - SPPermissions-JX/Camera (from `../`)
+  - SPPermissions-JX/Contacts (from `../`)
+  - SPPermissions-JX/Health (from `../`)
+  - SPPermissions-JX/LocationAlways (from `../`)
+  - SPPermissions-JX/LocationWhenInUse (from `../`)
+  - SPPermissions-JX/Microphone (from `../`)
+  - SPPermissions-JX/Motion (from `../`)
+  - SPPermissions-JX/Music (from `../`)
+  - SPPermissions-JX/Notification (from `../`)
+  - SPPermissions-JX/PhotoLibrary (from `../`)
+  - SPPermissions-JX/Reminders (from `../`)
+  - SPPermissions-JX/Siri (from `../`)
+  - SPPermissions-JX/SpeechRecognizer (from `../`)
+  - SPPermissions-JX/Tracking (from `../`)
+
+EXTERNAL SOURCES:
+  SPPermissions-JX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPPermissions-JX: 9e7d2964bfb4b4f56696bd45100ddd0ff0f7470d
+
+PODFILE CHECKSUM: 099a696079b87dd408b90727acea362212bb8673
+
+COCOAPODS: 1.10.0
